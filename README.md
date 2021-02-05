@@ -2,7 +2,7 @@
 Hi there 👋 
 
 My name is Joel. I am passionate about programming and new technologies. Technician in Electronics, Digital Systems and Microcontrollers.
-Developer based in Mexico. Believer in self-learning and free education. Python Software Foundation Member.
+Web Developer based in Mexico. Believer in self-learning and free education. Python Software Foundation Member.
 
 Web development | Python | Data Science | Machine learning 
 
@@ -16,11 +16,12 @@ Learning Microsoft Azure cloud services, Machine Learning as a service, Help the
 ## Learning:
 Learning how to convert Python ML ideas into web applications and serverless web applications using simple techniques to create attractive and interactive web panels, taking advantage of various frameworks such as Flask for rapid prototyping of Python Machine Learning models.
 
-Learning Microsoft Azure cloud services, Machine Learning as a service, Help the Python Software Foundation to  promote, protect, and advance the Python programming language and community!
-
 
 
 ## Currently reading:
+Monetizing Machine Learning:
+Quickly Turn Python ML Ideas into Web Applications on the Serverless Cloud
+
 ![Monetizing Machine Learning
 Quickly Turn Python ML Ideas into Web Applications on the Serverless Cloud](https://images.springer.com/sgw/books/medium/9781484238721.jpg)
 
