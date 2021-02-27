@@ -9,12 +9,16 @@ Web development | Python | Data Science | Machine learning
 
 
 ## Working on:
-Learning Microsoft Azure cloud services, Machine Learning as a service, Help the Python Software Foundation to  promote, protect, and advance the Python programming language and community!
-
+* Learning Microsoft Azure cloud services 
+* Machine Learning as a service 
+* Help the Python Software Foundation to  promote, protect, and advance the Python programming language and community!
 
 
 ## Learning:
-Learning how to convert Python ML ideas into web applications and serverless web applications using simple techniques to create attractive and interactive web panels, taking advantage of various frameworks such as Flask for rapid prototyping of Python Machine Learning models.
+* Learning how to convert Python ML ideas into web applications and serverless web applications using simple techniques to create attractive and interactive web panels, taking advantage of various frameworks such as Flask for rapid prototyping of Python Machine Learning models.
+* The complete web development bootcamp by London's app Brewery couses on Udemy
+* [App Brewery Page](https://www.appbrewery.co/p/the-complete-web-development-course)
+
 
 
 
