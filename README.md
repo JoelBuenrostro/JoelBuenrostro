@@ -1,10 +1,14 @@
+# Welcome to my GitHub profile
+
+![Cover image](images/Cover.png)
+
 ## Who am I
 Hi there 👋 
 
 My name is Joel. I am passionate about programming and new technologies. Technician in Electronics, Digital Systems and Microcontrollers.
 Web Developer based in Mexico. Believer in self-learning and free education. Python Software Foundation Member.
 
-Web development | Python | Data Science | Machine learning 
+Web development | Python | Javascript | Data Science | Machine learning 
 
 
 
@@ -64,6 +68,9 @@ Be free to connect on any social network of your choice
 [<img align="left" alt="Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][Dev]
 
 [facebook]: https://www.facebook.com/jesusjoelb/
+
 [twitter]: https://twitter.com/esteGeek
+
 [linkedin]: https://www.linkedin.com/in/joelbuenrostro/
+
 [Dev]: https://dev.to/joelbuenrostro
