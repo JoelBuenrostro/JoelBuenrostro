@@ -1,46 +1,37 @@
-# Welcome to my GitHub profile
+# 👋 ¡Hola! Soy Joel
 
-## Who am I
+## Sobre mí
 
-Hi there 👋
+Soy egresado de la Universidad de Guadalajara, donde estudié desarrollo de sistemas web. Además, cuento con formación en electrónica, especialmente en sistemas digitales y microcontroladores.
 
-My name is Joel. I am passionate about programming and new technologies. Technician in Electronics, Digital Systems and Microcontrollers.
-Web Developer based in Mexico. Believer in self-learning and free education. Python Software Foundation Member.
+Actualmente, mis lenguajes favoritos son **JavaScript** y **Python**. Me entusiasman las tecnologías modernas como **Astro** y las herramientas de Python interactivo, como **Jupyter Notebooks**.  
+Mis repositorios están enfocados principalmente en la exploración de ideas y en compartir código.
 
-Web development | Python | Javascript | Data Science | Machine learning
+### 🚀 Objetivo
 
-## Working on
+Mejorar continuamente mis técnicas para construir software de manera eficiente.
 
-- Learning Microsoft Azure cloud services
-- Machine Learning as a service
-- Help the Python Software Foundation to promote, protect, and advance the Python programming language and community!.
+---
 
-## Learning
+## ⚡ Tecnologías y herramientas favoritas
 
-- Learning how to convert Python ML ideas into web applications and serverless web applications using simple techniques to create attractive and interactive web panels, taking advantage of various frameworks such as Flask for rapid prototyping of Python Machine Learning models.
+- JavaScript / TypeScript
+- Python
+- Astro
+- Jupyter Notebooks
 
-- The complete web development bootcamp by London's app Brewery couses on Udemy
-- [App Brewery Page](https://www.appbrewery.co/p/the-complete-web-development-course)
+---
 
-- [Responsive Web Design Certification on freeCodeCamp](https://www.freecodecamp.org/joelbuenrostro)
+## 🎮 Intereses personales
 
-- [Web Development and Python paths on Pluralsight](https://app.pluralsight.com/profile/joel-buenrostro)
+- Música
+- Videojuegos
+- Cine
+- Bonsais 🌱
 
-## Currently reading
+---
 
-Advanced Python Development - Using Powerful Language Features in Real-World Applications - Written by Matthew Wilkes
-
-![Advanced Python Development](https://media.springernature.com/w153/springer-static/cover/book/9781484257937.jpg)
-
-## Looking to collaborate
-
-Open to chat, share tips, connect on LinkedIn, collaborate on Github, do not hesitate to contact me.
-
-## Looking for help
-
-All my repositories are open to proposals and improvements
-
-## My Github stats
+## Mis estadisticas Github
 
 <a href="https://github.com/JoelBuenrostro">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelBuenrostro&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -50,19 +41,19 @@ All my repositories are open to proposals and improvements
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=JoelBuenrostro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Joel GitHub Stats" />
 </a>
 
-## How to reach me
+---
 
-Be free to connect on any social network of your choice
+## 🌐 Conecta conmigo
 
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelbuenrostro)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/joel_buenrostro)
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+---
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 📁 Portafolio
 
-[<img align="left" alt="Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
+Próximamente...
 
-[facebook]: https://www.facebook.com/jesusjoelb/
-[twitter]: https://twitter.com/esteGeek
-[linkedin]: https://www.linkedin.com/in/joelbuenrostro/
-[dev]: https://dev.to/joelbuenrostro
+---
+
+> _"Siempre aprendiendo, siempre explorando."_
