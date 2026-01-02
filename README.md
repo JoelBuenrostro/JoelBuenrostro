@@ -1,63 +1,62 @@
-# 👋 ¡Hola! Soy Joel Buenrostro  
+# Hi, I'm Joel Buenrostro
 
-## Desarrollador Web
+## Web Developer
 
-## 📖 Sobre mí
+## About me
 
-- Egresado de la Universidad de Guadalajara (Desarrollo de Sistemas Web)  
-- Formación adicional en electrónica (sistemas digitales y microcontroladores)  
-- Actualmente me enfoco en crear aplicaciones con **JavaScript**, **TypeScript** y **Python**.  
-  Uso frameworks y herramientas modernas como **Astro**, **React** y **Jupyter Notebooks**.
-- Mi meta es mejorar continuamente mis técnicas para construir software de manera eficiente y escalable.
+- Graduate from the University of Guadalajara (Web Systems Development)
+- Additional training in electronics (digital systems and microcontrollers)
+- I currently focus on building applications with **JavaScript**, **TypeScript** and **Python**.
+  I use modern frameworks and tools like **Astro**, **React** and **Jupyter Notebooks**.
+- My goal is to continuously improve my techniques to build software efficiently and at scale.
 
 ---
 
-## 🛠 Tecnologías y herramientas favoritas
+## Favorite technologies & tools
 
 <p align="left">
   <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="Astro" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" />
   <img alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />
   <img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-</p>
+</p> }
 
-- **Lenguajes:** JavaScript, Python  
-- **Frameworks/Libs:** Astro, React, Express  
-- **Herramientas:** Jupyter Notebooks, Visual Studio Code, Git, Docker  
-- **Bases de datos:** MongoDB, PostgreSQL  
-
----
-
-## 🎮 Intereses personales
-
-- 🎵 **Música**  
-- 🎮 **Videojuegos**  
-- 🎬 **Cine**  
-- 🌱 **Bonsáis**  
+- **Languages:** JavaScript, Python
+- **Frameworks/Libs:** Astro, React, Express
+- **Tools:** Jupyter Notebooks, Visual Studio Code, Git, Docker
+- **Databases:** MongoDB, PostgreSQL
 
 ---
 
-## 📊 Mis estadísticas en GitHub
+## Personal interests
+
+- 🎵 **Music**
+- 🎮 **Video games**
+- 🎬 **Movies**
+- 🌱 **Bonsais**
+
+---
+
+## My GitHub stats
 
 <p align="center">
-  <!-- Lenguajes más usados -->
+  <!-- Top languages -->
   <a href="https://github.com/JoelBuenrostro">
-    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelBuenrostro&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelBuenrostro&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Programming languages logos"/>
   </a>
-  <!-- Actividad general -->
+  <!-- General activity -->
   <a href="https://github.com/JoelBuenrostro">
     <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=JoelBuenrostro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Joel GitHub Stats" />
   </a>
 </p>
 
-> _Las estadísticas se actualizan automáticamente cada hora._
+> _The stats update automatically every hour._
 
 ---
 
-## 🔗 Conecta conmigo
+## Connect with me
 
 <p align="center">
   <a href="mailto:joelbuenrostro@outlook.com">
@@ -79,19 +78,17 @@
 
 ---
 
-## 📂 Proyectos
+## Projects
 
-| Proyecto                | Descripción                                                     | Tecnologías                            | Demo / Enlace             |
+| Project | Description | Technologies | Demo / Link |
 | ----------------------- | --------------------------------------------------------------- | -------------------------------------- | ------------------------- |
-| **persistual-api**  | API open-source Node.js/TypeScript para gestión de hábitos y cálculo de rachas, con autenticación JWT, métricas y CI/CD. | JavaScript / TypeScript          | [Repositorio](https://github.com/JoelBuenrostro/persistual-api) |
-| **Binario** | Este proyecto es una tienda de comercio electrónico construido con el stack MERN, presenta una interfaz de usuario dinámica y responsiva. | JavaScript   | [Repositorio](https://github.com/JoelBuenrostro/Binario) |
-| **Administrador de tareas con Flask**       | Aplicación para el manejo de tareas con el framework Flask y Sqlite3.     | HTML, CSS, Python        | [Repositorio](https://github.com/JoelBuenrostro/Administrador-de-tareas-con-Flask) |
-| **100 dias de Machine Learning**       | Mi reto de 100 dias de codigo para ML.               | Python, Jupyter Notebooks              | [Repositorio](https://github.com/JoelBuenrostro/100-Days-of-ML-Code) |
+| **persistual-api** | Open-source Node.js/TypeScript API for habit management and streak calculation, with JWT authentication, metrics, and CI/CD. | JavaScript / TypeScript | [Repository](https://github.com/JoelBuenrostro/persistual-api) |
+| **Binario** | This project is an e-commerce store built with the MERN stack, featuring a dynamic and responsive user interface. | JavaScript | [Repository](https://github.com/JoelBuenrostro/Binario) |
+| **Task Manager with Flask** | Application for managing tasks using the Flask framework and Sqlite3. | HTML, CSS, Python | [Repository](https://github.com/JoelBuenrostro/Administrador-de-tareas-con-Flask) |
+| **100 Days of Machine Learning** | My 100-day coding challenge for ML. | Python, Jupyter Notebooks | [Repository](https://github.com/JoelBuenrostro/100-Days-of-ML-Code) |
 
-> _Más proyectos en mi perfil de GitHub._
-
----
-
-> _“Siempre aprendiendo, siempre explorando.”_  
+> _More projects on my GitHub profile._
 
 ---
+
+> _"Always learning, always exploring."_
