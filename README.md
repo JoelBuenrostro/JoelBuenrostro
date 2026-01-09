@@ -39,23 +39,6 @@
 
 ---
 
-## My GitHub stats
-
-<p align="center">
-  <!-- Top languages -->
-  <a href="https://github.com/JoelBuenrostro">
-    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelBuenrostro&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Programming languages logos"/>
-  </a>
-  <!-- General activity -->
-  <a href="https://github.com/JoelBuenrostro">
-    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=JoelBuenrostro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Joel GitHub Stats" />
-  </a>
-</p>
-
-> _The stats update automatically every hour._
-
----
-
 ## Connect with me
 
 <p align="center">
